@@ -1,4 +1,12 @@
-### Hi there 👋
+### HELLO!! 
+- My name is Dongju-Lim
+
+- I'm attending [ Gyeongbuk Software High School ]
+- I’m learning Vue.js 
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l050101&show_icons=true&theme=vue-dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l050101&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **l050101/l050101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
