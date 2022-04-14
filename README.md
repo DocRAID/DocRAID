@@ -6,7 +6,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l050101&show_icons=true&theme=vue-dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l050101&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldj050101)](https://solved.ac/ldj050101/)
 
 <!--
 **l050101/l050101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
