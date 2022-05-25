@@ -7,7 +7,7 @@
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l050101&show_icons=true&theme=vue-dark)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l050101&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ldj050101)](https://solved.ac/ldj050101/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ldj050101)](https://solved.ac/{handle})
  <img src="http://mazandi.herokuapp.com/api?handle=ldj050101&theme=warm"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
