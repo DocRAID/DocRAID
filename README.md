@@ -2,7 +2,7 @@
 - My name is Dongju-Lim
 
 - I'm attending [ Gyeongbuk Software High School ]
-- Useing : Vue.js, C++
+- Using : Vue.js, C++
 - Learning now : React, Rust, Ionic-framework
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l050101&show_icons=true&theme=vue-dark)
