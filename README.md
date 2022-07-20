@@ -1,10 +1,8 @@
 ### HELLO!! 
-- My name is Dongju-Lim
-
 - I'm attending [ Gyeongbuk Software High School ]
-- Using : Vue.js, C++
-- Learning now : React, Rust, Ionic-framework
-<br>~~(그냥 갈길 못찾는 학생입니다 이거저거 해보는중)~~ <br>
+- Useable stack : C++, Vue.js(Nuxt.js, Ionic), Node.js, DBMS(maria, mysql, oracle)
+- Learning now : Rust(Tarui, Rocket), PostgreSQL, Some_Algorithm, Security(Reverse Engineering)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l050101&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l050101&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 [![ldj050101](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=ldj050101&theme=github-dark&size=medium&sub_color=f74c00&compact=1&use_back_color=0&use_border=0&use_shadow=0)](https://www.acmicpc.net/user/ldj050101)
