@@ -1,7 +1,7 @@
 ### HELLO!! 
 - I'm attending [ Gyeongbuk Software High School ]
 - Useable stack : C++, Vue.js(Nuxt.js, Ionic), Node.js, DBMS(maria, mysql, oracle)
-- Learning now : Rust(Tarui, Rocket), PostgreSQL, Some_Algorithm, Security(Reverse Engineering)
+- Learning now : Rust(Tauri, Rocket), PostgreSQL, Some_Algorithm, Security(Reverse Engineering)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l050101&show_icons=true&theme=vue-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l050101&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
