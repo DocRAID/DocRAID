@@ -1,7 +1,7 @@
 <br>
 <h1 align="middle">Hello World, visitor!!</h1>
 <ul>
-  <li>Ready now : C++, Vue.js(Nuxt.js, Ionic), Node.js, DBMS(maria, mysql, oracle)
+  <li>Ready now : C++(for Ps), Vue.js(Nuxt.js, Ionic), Node.js, DBMS(maria, mysql, oracle)
   <li>Enjoy now : Rust(Tauri, Rocket), PostgreSQL, Some_Algorithm, Security(Reverse Engineering)
 </ul>
 
