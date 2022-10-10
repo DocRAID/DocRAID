@@ -1,9 +1,35 @@
 <br>
 <h1 align="middle">Hello World, visitor!!</h1>
-<ul>
-  <li>Ready now : C++(for Ps), Vue.js(Nuxt.js, Ionic), Node.js, DBMS(maria, mysql, oracle)
-  <li>Enjoy now : Rust(Tauri, Rocket), PostgreSQL, Some_Algorithm, Security(Reverse Engineering)
-</ul>
+
+  > ### Ready now
+  > * C++(for Ps)
+  > * Vue.js
+  >   * Nuxt.js
+  >   * Ionic
+  > * Node.js
+  > * DBMS
+  >   * mariaDB
+  >   * mysql
+  >   * oracle
+  
+  ---
+  
+  > ### Enjoy now
+  > * Rust
+  >   * Tauri
+  >   * Rocket
+  >   * [Actix](https://actix.rs/)
+  > * PostgreSQL
+  > * Some_Algorithm
+  > * Security(Reverse Engineering)
+  
+  ---
+
+  > ### Connect me!
+  > ### My korean devblog : [ velog ]( https://velog.io/@l050101 )
+  > ### My discord tag : NO_DOC#0401
+  
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=l050101&show_icons=true&theme=vue-dark)
 
