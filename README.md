@@ -17,6 +17,12 @@
   <img src="https://img.shields.io/badge/-MariaDB-black?style=flat&logo=mariadb">
   <img src="https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle"> 
   </p>
+  <p>
+  <img src="https://img.shields.io/badge/-Cooperation-black?style=flat&">
+  <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git">
+  <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github">
+  <img src="https://img.shields.io/badge/-Notion-black?style=flat&logo=notion">
+  </p>
 
 <h2>Enjoy & Learning now!</h2>
 <p>
@@ -26,7 +32,7 @@
 <img src="https://img.shields.io/badge/-Rocket-black?style=flat">
 </p>
 <img src="https://img.shields.io/badge/-PostresSQL-black?style=flat&logo=postgresql">
-<img src="https://img.shields.io/badge/-Some algorithm-black?style=flat&logo=rust">
+<img src="https://img.shields.io/badge/-Some algorithm-black?style=flat&logo=The Algorithms">
 <img src="https://img.shields.io/badge/-Reverse Enginerring-black?style=flat&logo=tryhackme">
 
 <h2>Opened Port</h2>
