@@ -3,7 +3,6 @@
 
 
 <h2>Ready now!</h2>
-  <img src="https://img.shields.io/badge/-Rust-black?style=flat&logo=rust">
   <img src="https://img.shields.io/badge/-C++ for ps-black?style=flat&logo=cplusplus"> 
   <p>
   <img src="https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript">
@@ -21,7 +20,7 @@
 
 <h2>Enjoy & Learning now!</h2>
 <p>
-<img src="https://img.shields.io/badge/-Rust framework-black?style=flat&logo=rust">
+<img src="https://img.shields.io/badge/-Rust-black?style=flat&logo=rust">
 <img src="https://img.shields.io/badge/-Tauri-black?style=flat&logo=tauri">
 <img src="https://img.shields.io/badge/-Actix-black?style=flat">
 <img src="https://img.shields.io/badge/-Rocket-black?style=flat">
