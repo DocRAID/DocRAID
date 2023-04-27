@@ -1,5 +1,6 @@
 <br>
-<h1 align="middle">Hello World, visitor!!</h1>
+<div align="middle">
+<h1>Hello World, visitor!!</h1>
 
 
 <h2>Ready now!</h2>
@@ -41,13 +42,14 @@
 Doc_RAID#0401
 </p>
 
+[Baekjoon OJ](https://www.acmicpc.net/user/ldj050101)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocRAID&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocRAID&layout=compact&theme=vue-dark&&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ldj050101](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=ldj050101&theme=github-dark&size=medium&sub_color=f74c00&compact=1&use_back_color=0&use_border=0&use_shadow=0)](https://www.acmicpc.net/user/ldj050101)
+  
+</div>
 <!--
 **l050101/l050101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
