@@ -5,6 +5,7 @@
 <h2>Ready stack</h2>
   <img src="https://img.shields.io/badge/-C++/C-black?style=flat&logo=cplusplus">
   <img src="https://img.shields.io/badge/-Rust-black?style=flat&logo=rust">
+  <img src="https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle"> 
 
 <h2>Connect</h2>
 <p>
