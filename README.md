@@ -17,8 +17,6 @@ Doc_RAID#0401
 
 <h2>Work on</h2>
 
-[Arkdata](http://iarkdata.com/)
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DocRAID&show_icons=true&theme=vue-dark) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DocRAID&layout=compact&theme=vue-dark&&hide=html)](https://github.com/anuraghazra/github-readme-stats)
